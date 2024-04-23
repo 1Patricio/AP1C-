@@ -1,0 +1,14 @@
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\bin\Debug\net8.0\AP1.exe
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\bin\Debug\net8.0\AP1.deps.json
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\bin\Debug\net8.0\AP1.runtimeconfig.json
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\bin\Debug\net8.0\AP1.dll
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\bin\Debug\net8.0\AP1.pdb
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\AP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\AP1.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\AP1.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\AP1.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\AP1.dll
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\refint\AP1.dll
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\AP1.pdb
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\AP1.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\Anderson\Ulbra\2º Sem\LaboratorioProgramacao\AP1\obj\Debug\net8.0\ref\AP1.dll
